@@ -4,7 +4,7 @@
 
 An open source React and Tailwind package for image preview before upload.
 
-## Installation
+## Dependencies to install
 
 `npm install react-image-upload --save`
 
