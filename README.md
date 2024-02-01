@@ -41,7 +41,7 @@ An open source React and Tailwind package for image preview before upload.
 
 MIT License
 
-Copyright (c) 2020-present, React-Image-Uploader
+Copyright (c) 2024-present, React-Image-Uploader
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -78,18 +78,7 @@ Before starting :checkered_flag:, you need to have [React](https://reactjs.org/)
 
 These wonderful people have contributed to this project:
 
-<!-- readme: contributors -start -->
-<table>
-<tr>
-    <td align="center">
-        <a href="https://github.com/qbentil">
-            <img src="https://avatars.githubusercontent.com/u/55560024?v=4" width="100;" alt="qbentil"/>
-            <br />
-            <sub><b>Bentil Shadrack</b></sub>
-        </a>
-    </td></tr>
-</table>
-<!-- readme: contributors -end -->
+
 
 ## Project Maintainers
 
