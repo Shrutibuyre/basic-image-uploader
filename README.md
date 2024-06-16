@@ -1,4 +1,4 @@
-# React-Image-Uploader
+# Basic-Image-Uploader
 
 ## :dart: About
 
